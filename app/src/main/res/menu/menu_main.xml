@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.david.addressbook.MainActivity">
+
+
+
+    <item android:id="@+id/add_Contact"
+          android:orderInCategory="100"
+          android:icon="@drawable/plus"
+          app:showAsAction="always"
+          android:title=""/>
+</menu>
